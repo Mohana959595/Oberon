@@ -3247,7 +3247,7 @@
     <IncludeTopicNameInTitle>false</IncludeTopicNameInTitle>
     <TopicEditorState>
       <Attributes>
-        <Assembly key="scrollPosition" valuetype="integer">217</Assembly>
+        <Assembly key="scrollPosition" valuetype="integer">0</Assembly>
       </Attributes>
     </TopicEditorState>
   </TopicsProjectPlugin>
