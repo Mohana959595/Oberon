@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceControlConnection>
+  <Provider>GIT</Provider>
+  <RemoteMoniker>../$/</RemoteMoniker>
+  <ProviderProperties>
+    <Branch>main</Branch>
+    <ServerUrl>https://github.com/Mohana959595/Oberon</ServerUrl>
+    <RepositoryFolder>D:\hsdx\installation file\Github</RepositoryFolder>
+    <RepositoryDirectoryInfo>D:\hsdx\installation file\Github</RepositoryDirectoryInfo>
+    <AuthorEmail>mohana@contiem.com</AuthorEmail>
+    <AuthorName>Mohana Priya Dass</AuthorName>
+    <UserName>Mohana959595</UserName>
+    <Password>SFMyAEANAwBzWUjjTvJx9ty0f0oJK4J6+FrFLQOCNGWcObBlJBoJxNBstUSq/zBhMYRP+58VJGi5CDDn+jW0MnQx1tGsGjTmBUjUBvj8YnqZajISJRImGFy3OmomwdZYXzWAbKcrHr+EyH/aO46/IuEc2EkxZ3/WPvnipK6DibIG4rw9OIWYowe6p2Gl+za9rmLmaPoajN9/78JAvkEQ5gULTrWaSIMs9Cf75qB1qc/uSHELmihad5PBU7AQTPNmz3LVQ4rV1uY=</Password>
+    <SupplyUserCredentials>true</SupplyUserCredentials>
+  </ProviderProperties>
+</SourceControlConnection>
